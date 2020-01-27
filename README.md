@@ -4,5 +4,5 @@ Simple artificial neural network that correctly determines whether the Portland 
 Training data includes (for the other 14 teams in the Western Conference): 
   points per game (PPG)
   points allowed per game (PAPG)
-  wins
+  wins,
   playoffs or not
